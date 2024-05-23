@@ -23,7 +23,7 @@ Everything should work just fine but you might notice missing font from the bar 
 yay ttf-monaco
 ```
 ```
-ttf-font-awesome-4
+yay ttf-font-awesome-4
 ```
 Red-i3 uses bumblebee status with the following moduls: (spotify cpu memory datetime pamixer), Which requires 
 ```
