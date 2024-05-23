@@ -1,3 +1,6 @@
+![2024-05-24_02-15](https://github.com/L3pux/Red-i3/assets/123013187/33860c1b-19c2-461d-8e3b-5d971c4cce28)
+
+
 The installation script will only work on arch linux and arch-based system
 ## Requiremnts:
 * i3 (obviously)
